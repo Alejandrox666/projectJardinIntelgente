@@ -32,7 +32,7 @@
 |----|----------|---------|------|
 |  1  |    Thonny      |    4.1.2     |      |
 | 2   |      Node red    |    3.1.5     |      |
-| 3   |      |Postgres    |    16.1     |      |
+| 3   |   Postgres   |     16.1        |      |
 
 ## Visión del producto
 ¿Como generar la visión del proyecto?
