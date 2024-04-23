@@ -2,9 +2,9 @@
 
 ## Integrantes
 - Lista de los integrantes (Nombre completo y Numero de control)
-- Hernández Negrete Alejandro -
+- Hernández Negrete Alejandro -1222100417
 - Herrera Ramiro - 1222100418
-- Vega Cervantes Salvador
+- Vega Cervantes Salvador  - 1222100485
 
 ## Carta de liberación del proyecto
 - Dirigida al Docente
@@ -21,8 +21,11 @@
 |  2  |      Buzzer      |      Dsipositivo que emite sonido       |        |     1     |      $40       |
 |  3  |      Flame      |      Dsipositivo detector de fuego       |        |      1    |       $30      |
 |  4 |     Photoresistor  |        Sensor detector de luz     |        |     1     |       $50      |
-|  5  |      Buzzer      |      Dsipositivo que emite sonido       |        |     1     |      $40       |
-|  6 |      Flame      |      Dsipositivo detector de fuego       |        |      1    |       $30      |
+|  5  |      Pir      |      Dsipositivo que detecta movimientos      |        |     1     |      $40       |
+|  6 |      RGB      |      Dsipositivo que emite luces de colores       |        |      1    |       $17     |
+|  7 |     Led  |        Foco que emite luz     |        |     1     |       $2     |
+|  8  |      Oled      |      Dsipositivo que para plasmar mensajes en su pantalla      |        |     2     |      $60       |
+|  9 |      Relay      |      Dsipositivo que nos permite controlar corriente de luz       |        |      1    |       $59     |
 
 ## Lista de Software utilizado
 | Id | Software | Version | Tipo |
