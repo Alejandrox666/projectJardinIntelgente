@@ -30,9 +30,9 @@
 ## Lista de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|  1  |    Thonny      |    4.1.2     |      |
-| 2   |      Node red    |    3.1.5     |      |
-| 3   |   Postgres   |     16.1        |      |
+|  1  |    Thonny      |    4.1.2     |   Software libre   |
+| 2   |      Node red    |    3.1.5     |   Software libre   |
+| 3   |   Postgres   |     16.1        |   Software libre   |
 
 ## Visión del producto
 ¿Como generar la visión del proyecto?
