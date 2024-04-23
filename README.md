@@ -1,9 +1,9 @@
-# Jardín Inteligente
+# Ceramica Inteligente
 
 ## Integrantes
 - Lista de los integrantes (Nombre completo y Numero de control)
+- Hernández Negrete Alejandro -
 - Herrera Ramiro - 1222100418
-- Hernández Negrete Alejandro
 - Vega Cervantes Salvador
 
 ## Carta de liberación del proyecto
@@ -17,9 +17,12 @@
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
+|  1 |     DHT11  |        Sensor de temperatura y humedad     |        |     1     |       $50      |
+|  2  |      Buzzer      |      Dsipositivo que emite sonido       |        |     1     |      $40       |
+|  3  |      Flame      |      Dsipositivo detector de fuego       |        |      1    |       $30      |
+|  4 |     Photoresistor  |        Sensor detector de luz     |        |     1     |       $50      |
+|  5  |      Buzzer      |      Dsipositivo que emite sonido       |        |     1     |      $40       |
+|  6 |      Flame      |      Dsipositivo detector de fuego       |        |      1    |       $30      |
 
 ## Lista de Software utilizado
 | Id | Software | Version | Tipo |
